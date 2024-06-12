@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "home-banner": "./cpns/home-banner",
+    "home-tool": "./cpns/home-tool"
+  }
+}

@@ -1,0 +1,26 @@
+
+.tool-wrapper {
+		flex: 2;
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+		margin-top: -4px;
+		background-color: antiquewhite;
+}
+.btn-wrapper {
+		padding: 40px;
+}
+.btn {
+		height: 100px;
+		line-height: 100px;
+		color: white;
+}
+.other-btns {
+		display: flex;
+		justify-content:space-around
+}
+.other-btn {
+		display: flex;
+		flex-direction: column;
+		padding: 20px 0;
+		font-size: 14px;
+}
