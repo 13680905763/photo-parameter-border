@@ -1,26 +1,23 @@
 
 .tool-wrapper {
+		margin-top: -4px;
+		position: relative;
 		flex: 2;
 		border-top-left-radius: 10px;
 		border-top-right-radius: 10px;
-		margin-top: -4px;
-		background-color: antiquewhite;
 }
 .btn-wrapper {
 		padding: 40px;
 }
 .btn {
-		height: 100px;
-		line-height: 100px;
+		height: 120px;
+		line-height: 120px;
 		color: white;
+		font-size: 30px;
 }
 .other-btns {
 		display: flex;
-		justify-content:space-around
-}
-.other-btn {
-		display: flex;
-		flex-direction: column;
-		padding: 20px 0;
-		font-size: 14px;
+		justify-content: space-around;
+		flex-wrap: wrap;
+		margin-top: 20px;
 }

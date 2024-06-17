@@ -1,4 +1,7 @@
 {
   "component": true,
-  "usingComponents": {}
+  "usingComponents": {
+    "tool-popup": "./tool-popup",
+    "tool-btn-item": "./tool-btn-item"
+  }
 }

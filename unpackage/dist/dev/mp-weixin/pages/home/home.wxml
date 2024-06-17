@@ -1,1 +1,1 @@
-<view class="{{['home', virtualHostClass]}}" style="{{virtualHostStyle}}"><home-banner u-i="7376315c-0" bind:__l="__l"></home-banner><home-tool u-i="7376315c-1" bind:__l="__l"></home-tool></view>
+<view class="home"><home-banner u-i="7376315c-0" bind:__l="__l"></home-banner><home-tool u-i="7376315c-1" bind:__l="__l"></home-tool></view>

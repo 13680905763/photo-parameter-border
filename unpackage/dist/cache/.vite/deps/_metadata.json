@@ -1,8 +1,15 @@
 {
-  "hash": "a60581e9",
+  "hash": "a8a49981",
   "configHash": "fbe7ca12",
-  "lockfileHash": "e3b0c442",
-  "browserHash": "063f7fe7",
-  "optimized": {},
+  "lockfileHash": "ac9f90e3",
+  "browserHash": "d44eb838",
+  "optimized": {
+    "exif-js": {
+      "src": "../../../../../node_modules/exif-js/exif.js",
+      "file": "exif-js.js",
+      "fileHash": "fa20645c",
+      "needsInterop": true
+    }
+  },
   "chunks": {}
 }
